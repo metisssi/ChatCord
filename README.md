@@ -17,6 +17,37 @@ ChatCord is a real-time chat application built with Node.js, Express, and Socket
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
 - **Dependencies**: moment.js for time formatting, qs for URL parsing
 
+## How It Works
+
+### 1. Initial Setup
+- First, you need to enter your username and select a group
+<img width="1919" height="1033" alt="Group selection" src="https://github.com/user-attachments/assets/4a767700-6f3b-4da5-8294-f534bd753a28" />
+
+- After clicking "Join Chat", the chat interface opens
+<img width="1919" height="944" alt="Chat interface" src="https://github.com/user-attachments/assets/785287a1-cb1d-452d-b360-97139704e402" />
+
+- ChatCord Bot welcomes you with "Welcome to ChatRooms" and shows the current group and users
+
+### 2. Multi-Client Support
+- When opening a new browser window (new client) and joining the same group
+<img width="1905" height="1018" alt="New client joining" src="https://github.com/user-attachments/assets/061a5987-0fd8-44ad-9705-c1995269993a" />
+
+- User1 can see messages from test2 and test2's name appears in the USERS list
+<img width="1905" height="1018" alt="User communication" src="https://github.com/user-attachments/assets/b2b88c44-c690-48e4-95f7-61d61374fc67" />
+
+### 3. Leave Room Functionality
+- When clicking "Leave Room", you return to the main screen
+<img width="149" height="37" alt="Leave room button" src="https://github.com/user-attachments/assets/6af7c031-6713-4548-bf85-d96d53f49382" />
+
+- The first user receives a notification that the second user has left the chat
+<img width="1387" height="613" alt="User left notification" src="https://github.com/user-attachments/assets/c732ba2f-192c-4ab6-8f30-be732c679605" />
+
+- If you choose another chat room (for example, Rubo room), you will not see the previous users from the other room
+
+
+
+ 
+
 ## Project Structure
 
 ```
