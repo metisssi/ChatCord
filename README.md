@@ -33,7 +33,8 @@ ChatCord is a real-time chat application built with Node.js, Express, and Socket
 <img width="1905" height="1018" alt="New client joining" src="https://github.com/user-attachments/assets/061a5987-0fd8-44ad-9705-c1995269993a" />
 
 - User1 can see messages from test2 and test2's name appears in the USERS list
-<img width="1905" height="1018" alt="User communication" src="https://github.com/user-attachments/assets/b2b88c44-c690-48e4-95f7-61d61374fc67" />
+<img width="1914" height="1006" alt="image" src="https://github.com/user-attachments/assets/823d8fed-0d8a-429d-a3bf-3fa2aa56885b" />
+
 
 ### 3. Leave Room Functionality
 - When clicking "Leave Room", you return to the main screen
@@ -150,21 +151,13 @@ The application works in all modern browsers that support:
 - ES6+ JavaScript features
 - CSS Grid and Flexbox
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## Author
 
 Andriy Simchera
 
-## License
 
-This project is licensed under the ISC License.
 
 ## Future Enhancements
 
