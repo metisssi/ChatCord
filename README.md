@@ -34,6 +34,8 @@ ChatCord is a real-time chat application built with Node.js, Express, and Socket
 
 - User1 can see messages from test2 and test2's name appears in the USERS list
 <img width="1914" height="1006" alt="image" src="https://github.com/user-attachments/assets/823d8fed-0d8a-429d-a3bf-3fa2aa56885b" />
+<img width="1908" height="999" alt="image" src="https://github.com/user-attachments/assets/ea40d1ea-de5e-459d-a92c-058aa702b02e" />
+
 
 
 ### 3. Leave Room Functionality
